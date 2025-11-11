@@ -14,8 +14,8 @@ It visualizes key metrics like churn rate, active customers, income segments, an
 - PivotTables and Slicers
 - Data Visualization & Formatting
 
-## Data Used
-- Synthetic dataset from Kaggle - bank-churn-data
+## Dataset Used
+- Synthetic dataset from Kaggle - bank-churn-data.csv
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
